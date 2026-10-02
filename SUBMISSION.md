@@ -6,7 +6,7 @@ Fill the form from this page. Validators read **text** (repo + this deck file + 
 
 | Field | Paste this |
 |---|---|
-| **GitHub repo** | Public URL printed after `gh repo create` (also in README) |
+| **GitHub repo** | https://github.com/saqlaintahir9/fe-bar-finserv-credit-cyber |
 | **Presentation deck** | Attach **`DECK.txt`** (or `DECK.md`) from the repo root — the in-repo file alone is not enough if the form has a file upload |
 | **Conversation ID** (optional cheating-flag follow-up) | `7fd057ef-878a-4184-aa40-7b2b3eb82a84` |
 | **Customer / industry** | Synthetic **Meridian Bank** · Financial Services · card issuer |

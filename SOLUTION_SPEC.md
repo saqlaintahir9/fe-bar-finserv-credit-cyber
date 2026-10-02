@@ -15,7 +15,7 @@
 
 Do these before the form is submitted. A missing gate fails **Build** or **Customer Skills** regardless of architecture quality. Operational copy: `SUBMISSION.md`.
 
-- [x] GitHub repo is **readable by the validator** (public — see README after push)
+- [x] GitHub repo is **readable by the validator**: https://github.com/saqlaintahir9/fe-bar-finserv-credit-cyber
 - [x] **Deck field** — attach `DECK.txt` (also `DECK.md`) from the repo root
 - [x] All six stages ran; **executed notebooks** committed with cell outputs visible as text
 - [x] `docs/evidence/*.txt` contains real run output (not placeholders) — **screenshots do not count**

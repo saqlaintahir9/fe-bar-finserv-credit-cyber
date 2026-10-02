@@ -11,7 +11,8 @@ Built for the Databricks **FE Bar**: **Lakeflow → Unity Catalog → Lakebase �
 
 **Single-thread demo account:** `ACC-100042` (ATO login → spend 4 minutes later). Every stage shows this id. Model score **0.90**, version **`fused_gbm_v1`**.
 
-**Submit with:** [`SUBMISSION.md`](SUBMISSION.md) · attach [`DECK.txt`](DECK.txt) in the form deck field.
+**Submit with:** [`SUBMISSION.md`](SUBMISSION.md) · attach [`DECK.txt`](DECK.txt) in the form deck field.  
+**Public repo:** https://github.com/saqlaintahir9/fe-bar-finserv-credit-cyber
 
 ## Why this build
 
