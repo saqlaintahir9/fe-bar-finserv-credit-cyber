@@ -1,0 +1,7 @@
+Optional FE Bar cheating-flag follow-up.
+
+Cursor conversation id:
+7fd057ef-878a-4184-aa40-7b2b3eb82a84
+
+Paste this into the submission form "conversation ID" field if present.
+Do not paste INTERNAL_C1_MAPPING.md or any live-account identifiers.

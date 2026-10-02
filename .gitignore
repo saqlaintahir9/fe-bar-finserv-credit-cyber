@@ -1,0 +1,22 @@
+# NEVER commit the confidential account mapping to the FE Bar / public repo
+INTERNAL_C1_MAPPING.md
+
+# Local / generated
+.databricks/
+app/.databricks/
+data/*.parquet
+data/*.csv
+data/*.sqlite
+data/gold/
+*.token
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
